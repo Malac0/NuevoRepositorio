@@ -1,2 +1,6 @@
 # NuevoRepositorio
+
 practica
+
+Hola	q
+
